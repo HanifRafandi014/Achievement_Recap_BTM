@@ -1,8 +1,8 @@
 # 📔**Achievement Recap**
 Tool : Google Collab, Looker Studio, Ms.Excel <br>
 Programming Language : Python <br>
-Libraries : <br>
-Visualization : <br>
+Libraries : numpy, pandas, ipywidgets, IPython.display<br>
+Visualization : matplotlib.pyplot, seaborn<br>
 Source Dataset : PT BTM <br>
 
 # 📂 Stage 0: Business Understanding
